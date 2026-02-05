@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**NayanatharaBandara1207/NayanatharaBandara1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Nayanathara Bandara
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Undergraduate | Information Systems
+🌱 Currently learning: C,Java, DBMS, GitHub, Web Technologies  
+🚀 Interested in:Web Development, Problem Solving & Freelancing  
+
+---
+
+## 🛠 Skills
+- C Programming
+- Java
+- Git & GitHub
+- HTML / CSS (beginner)
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/NayanatharaBandara
+- Linkedin-www.linkedin.com/in/nayanathara-bandara-6744b32ba
