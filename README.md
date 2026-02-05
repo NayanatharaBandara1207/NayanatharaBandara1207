@@ -3,7 +3,9 @@
 # 👋 Hi, I'm Nayanathara Bandara
 
 🎓 Undergraduate | Information Systems
+
 🌱 Currently learning: C,Java, DBMS, GitHub, Web Technologies  
+
 🚀 Interested in:Web Development, Problem Solving & Freelancing  
 
 ---
